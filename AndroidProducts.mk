@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_ulysse.mk
+    $(LOCAL_DIR)/colt_ulysse.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_ulysse-user \
-    aosp_ulysse-userdebug \
-    aosp_ulysse-eng
+    colt_ulysse-user \
+    colt_ulysse-userdebug \
+    colt_ulysse-eng
